@@ -5,7 +5,7 @@ Built on Solana, our REST API provides a streamlined and user-friendly experienc
 
 # Features
 
-Wallet Creation: With our API, new users can easily create a SOL wallet without the need for a wallet provider like Metamask or Coinbase Wallet.
+Wallet Creation: With our API, new users can easily create a SOL wallet without the need for a wallet provider like Phantom or Coinbase Wallet.
 
 Wallet Info Retrieval: Our API makes it easy to retrieve wallet information such as public keys and balances.
 
