@@ -42,7 +42,7 @@ The two endpoints are implemented in the following functions:
 
 ```
 app.get('/getWallet', async (req, res) => {
-    // ...
+ // ...
 });
 ```
 
