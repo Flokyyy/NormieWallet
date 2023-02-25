@@ -9,7 +9,7 @@ Wallet Creation: With our API, new users can easily create a SOL wallet without 
 
 Wallet Info Retrieval: Our API makes it easy to retrieve wallet information such as public keys and balances.
 
-Password Encryption: Our API provides a secure way, as stored private keys are decrypted using a users individual password.
+Encryption: Our API provides a secure way, as stored private keys are encrypted using a users individual password.
 
 Mainnet SOL Transactions: Users can easily send SOL over the mainnet, making it easy to participate in any Solana-based web3 application.
 
