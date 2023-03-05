@@ -42,14 +42,13 @@ The two endpoints are implemented in the following functions:
 
 ```
 app.get('/getWallet', async (req, res) => {
- // ...
  //Example response: {"results":[{"WALLET":"BBiZcEaH6FqcUzrswgXfpuUQnwj4G918V94VBbftmH8s","CHAIN":"SOLANA"}]}
 });
 ```
 
 ```
 app.get('/send-solana-transaction', async (req, res) => {
- // ...
+ //Example response: {"message":"Transaction success: ","signature":"5SGWgQwefNVQcLCu2PByQGU8EqSMU1vpipnJfJKCWmFPdeANFMgZ58kLgqWK7GBUPyC8oaq2YjzAiBB7Dkan64Rq"}
 });
 ```
 
