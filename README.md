@@ -43,6 +43,7 @@ The two endpoints are implemented in the following functions:
 ```
 app.get('/getWallet', async (req, res) => {
  // ...
+ //Example response: {"results":[{"WALLET":"BBiZcEaH6FqcUzrswgXfpuUQnwj4G918V94VBbftmH8s","CHAIN":"SOLANA"}]}
 });
 ```
 
