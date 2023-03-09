@@ -1,4 +1,5 @@
 # NormieWallet
+- NormieWallet is a scalable and secure wallet infrastructure API.
 - The traditional approach of creating a wallet and connecting to it via a wallet provider can be daunting and confusing, especially for those who are new to the world of crypto. That's where our REST API solution comes in.
 
 - Built on Solana, our REST API provides a streamlined and user-friendly experience for creating a solana wallet, getting wallet information, encrypting user wallets with individuals passwords, and sending SOL over the mainnet. Our API can be easily implemented into any web3/2 application, making it an ideal solution for developers who want to provide a seamless user experience.
